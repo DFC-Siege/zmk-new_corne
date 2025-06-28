@@ -46,9 +46,9 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-control$$
-  - SYMBOL
-  - NUMBER
   - $$mdi:apple-keyboard-option$$
+  - NUMBER
+  - SYMBOL
   NUMBER:
   - {t: '`', s: '~'}
   - '1'
@@ -144,6 +144,6 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
